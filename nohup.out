@@ -1,0 +1,146 @@
+INFO  Start processing
+INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
+TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:27:11
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:27:11
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:27:11
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:27:11
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:27:11
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+TypeError: The header content contains invalid characters
+    at validateHeader (_http_outgoing.js:494:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:27:11
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+INFO  Start processing
+INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
+URIError: URI malformed
+    at decodeURIComponent (<anonymous>)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:18:28
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
+URIError: URI malformed
+    at decodeURIComponent (<anonymous>)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/route.js:18:28
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at compression (/home/tingjie/xstudio/hexo/xinli.im/node_modules/compression/index.js:220:5)
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at /home/tingjie/xstudio/hexo/xinli.im/node_modules/hexo-server/lib/middlewares/header.js:6:5
+    at call (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:239:7)
+    at next (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:183:5)
+    at Function.handle (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:186:3)
+    at Server.app (/home/tingjie/xstudio/hexo/xinli.im/node_modules/connect/index.js:51:37)
+    at emitTwo (events.js:126:13)
+    at Server.emit (events.js:214:7)
+    at parserOnIncoming (_http_server.js:619:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)
